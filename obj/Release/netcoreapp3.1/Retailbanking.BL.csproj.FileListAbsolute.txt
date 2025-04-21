@@ -1,0 +1,39 @@
+C:\TB-Box\Retailbanking\Retailbanking\Retailbanking.BL\bin\Release\netcoreapp3.1\Retailbanking.BL.deps.json
+C:\TB-Box\Retailbanking\Retailbanking\Retailbanking.BL\bin\Release\netcoreapp3.1\Retailbanking.BL.dll
+C:\TB-Box\Retailbanking\Retailbanking\Retailbanking.BL\bin\Release\netcoreapp3.1\Retailbanking.BL.pdb
+C:\TB-Box\Retailbanking\Retailbanking\Retailbanking.BL\bin\Release\netcoreapp3.1\Retailbanking.Common.dll
+C:\TB-Box\Retailbanking\Retailbanking\Retailbanking.BL\bin\Release\netcoreapp3.1\Retailbanking.Common.pdb
+C:\TB-Box\Retailbanking\Retailbanking\Retailbanking.BL\obj\Release\netcoreapp3.1\Retailbanking.BL.csproj.AssemblyReference.cache
+C:\TB-Box\Retailbanking\Retailbanking\Retailbanking.BL\obj\Release\netcoreapp3.1\Retailbanking.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\TB-Box\Retailbanking\Retailbanking\Retailbanking.BL\obj\Release\netcoreapp3.1\Retailbanking.BL.AssemblyInfoInputs.cache
+C:\TB-Box\Retailbanking\Retailbanking\Retailbanking.BL\obj\Release\netcoreapp3.1\Retailbanking.BL.AssemblyInfo.cs
+C:\TB-Box\Retailbanking\Retailbanking\Retailbanking.BL\obj\Release\netcoreapp3.1\Retailbanking.BL.csproj.CoreCompileInputs.cache
+C:\TB-Box\Retailbanking\Retailbanking\Retailbanking.BL\obj\Release\netcoreapp3.1\Retailbanking.BL.csproj.CopyComplete
+C:\TB-Box\Retailbanking\Retailbanking\Retailbanking.BL\obj\Release\netcoreapp3.1\Retailbanking.BL.dll
+C:\TB-Box\Retailbanking\Retailbanking\Retailbanking.BL\obj\Release\netcoreapp3.1\Retailbanking.BL.pdb
+C:\Users\samson.oluwaseyi\Documents\dotapps\Retailbanking\Retailbanking.BL\bin\Release\netcoreapp3.1\Retailbanking.BL.deps.json
+C:\Users\samson.oluwaseyi\Documents\dotapps\Retailbanking\Retailbanking.BL\bin\Release\netcoreapp3.1\Retailbanking.BL.dll
+C:\Users\samson.oluwaseyi\Documents\dotapps\Retailbanking\Retailbanking.BL\bin\Release\netcoreapp3.1\Retailbanking.BL.pdb
+C:\Users\samson.oluwaseyi\Documents\dotapps\Retailbanking\Retailbanking.BL\bin\Release\netcoreapp3.1\Retailbanking.Common.dll
+C:\Users\samson.oluwaseyi\Documents\dotapps\Retailbanking\Retailbanking.BL\bin\Release\netcoreapp3.1\Retailbanking.Common.pdb
+C:\Users\samson.oluwaseyi\Documents\dotapps\Retailbanking\Retailbanking.BL\obj\Release\netcoreapp3.1\Retailbanking.BL.csproj.AssemblyReference.cache
+C:\Users\samson.oluwaseyi\Documents\dotapps\Retailbanking\Retailbanking.BL\obj\Release\netcoreapp3.1\Retailbanking.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samson.oluwaseyi\Documents\dotapps\Retailbanking\Retailbanking.BL\obj\Release\netcoreapp3.1\Retailbanking.BL.AssemblyInfoInputs.cache
+C:\Users\samson.oluwaseyi\Documents\dotapps\Retailbanking\Retailbanking.BL\obj\Release\netcoreapp3.1\Retailbanking.BL.AssemblyInfo.cs
+C:\Users\samson.oluwaseyi\Documents\dotapps\Retailbanking\Retailbanking.BL\obj\Release\netcoreapp3.1\Retailbanking.BL.csproj.CoreCompileInputs.cache
+C:\Users\samson.oluwaseyi\Documents\dotapps\Retailbanking\Retailbanking.BL\obj\Release\netcoreapp3.1\Retailbanking.BL.csproj.CopyComplete
+C:\Users\samson.oluwaseyi\Documents\dotapps\Retailbanking\Retailbanking.BL\obj\Release\netcoreapp3.1\Retailbanking.BL.dll
+C:\Users\samson.oluwaseyi\Documents\dotapps\Retailbanking\Retailbanking.BL\obj\Release\netcoreapp3.1\Retailbanking.BL.pdb
+C:\TrustBanc And Other files\dotapps\Retailbanking\Retailbanking.BL\bin\Release\netcoreapp3.1\Retailbanking.BL.deps.json
+C:\TrustBanc And Other files\dotapps\Retailbanking\Retailbanking.BL\bin\Release\netcoreapp3.1\Retailbanking.BL.dll
+C:\TrustBanc And Other files\dotapps\Retailbanking\Retailbanking.BL\bin\Release\netcoreapp3.1\Retailbanking.BL.pdb
+C:\TrustBanc And Other files\dotapps\Retailbanking\Retailbanking.BL\bin\Release\netcoreapp3.1\Retailbanking.Common.dll
+C:\TrustBanc And Other files\dotapps\Retailbanking\Retailbanking.BL\bin\Release\netcoreapp3.1\Retailbanking.Common.pdb
+C:\TrustBanc And Other files\dotapps\Retailbanking\Retailbanking.BL\obj\Release\netcoreapp3.1\Retailbanking.BL.csproj.AssemblyReference.cache
+C:\TrustBanc And Other files\dotapps\Retailbanking\Retailbanking.BL\obj\Release\netcoreapp3.1\Retailbanking.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\TrustBanc And Other files\dotapps\Retailbanking\Retailbanking.BL\obj\Release\netcoreapp3.1\Retailbanking.BL.AssemblyInfoInputs.cache
+C:\TrustBanc And Other files\dotapps\Retailbanking\Retailbanking.BL\obj\Release\netcoreapp3.1\Retailbanking.BL.AssemblyInfo.cs
+C:\TrustBanc And Other files\dotapps\Retailbanking\Retailbanking.BL\obj\Release\netcoreapp3.1\Retailbanking.BL.csproj.CoreCompileInputs.cache
+C:\TrustBanc And Other files\dotapps\Retailbanking\Retailbanking.BL\obj\Release\netcoreapp3.1\Retailbanking.BL.csproj.CopyComplete
+C:\TrustBanc And Other files\dotapps\Retailbanking\Retailbanking.BL\obj\Release\netcoreapp3.1\Retailbanking.BL.dll
+C:\TrustBanc And Other files\dotapps\Retailbanking\Retailbanking.BL\obj\Release\netcoreapp3.1\Retailbanking.BL.pdb
